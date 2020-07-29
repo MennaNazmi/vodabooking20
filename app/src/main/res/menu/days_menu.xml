@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idSat"
+        android:title="Saturday"
+        >
+        <menu>
+            <item
+                android:id="@+id/idsat9_10"
+                android:title="9AM-10AM" />
+            <item
+                android:id="@+id/idsat10_11"
+                android:title="10AM-11AM" />
+            <item
+                android:id="@+id/idsat11_12"
+                android:title="11AM-12PM" />
+
+        </menu>
+
+    </item>
+
+
+    <item
+        android:id="@+id/idSun"
+        android:title="Sunday"
+        >
+
+        <menu>
+
+            <item
+                android:id="@+id/idsun9_10"
+                android:title="9AM-10AM" />
+            <item
+                android:id="@+id/idsun10_11"
+                android:title="10AM-11AM" />
+            <item
+                android:id="@+id/idsun11_12"
+                android:title="11AM-12PM" />
+
+        </menu>
+        </item>
+
+    <item
+        android:id="@+id/idMon"
+        android:title="Monday"
+        >
+
+
+        <menu>
+
+            <item
+                android:id="@+id/idmon9_10"
+                android:title="9AM-10AM" />
+            <item
+                android:id="@+id/idmon10_11"
+                android:title="10AM-11AM" />
+            <item
+                android:id="@+id/idmon11_12"
+                android:title="11AM-12PM" />
+
+
+        </menu>
+
+    </item>
+
+    <item
+            android:id="@+id/idTues"
+            android:title="Tuesday"
+            >
+
+
+            <menu>
+
+                <item
+                    android:id="@+id/idtues9_10"
+                    android:title="9AM-10AM" />
+                <item
+                    android:id="@+id/idtues10_11"
+                    android:title="10AM-11AM" />
+                <item
+                    android:id="@+id/idtues11_12"
+                    android:title="11AM-12PM" />
+
+
+            </menu>
+
+        </item>
+
+
+    <item
+        android:id="@+id/idwed"
+        android:title="Wednesday"
+        >
+
+
+        <menu>
+
+            <item
+                android:id="@+id/idwed9_10"
+                android:title="9AM-10AM" />
+            <item
+                android:id="@+id/idwed10_11"
+                android:title="10AM-11AM" />
+            <item
+                android:id="@+id/idwed11_12"
+                android:title="11AM-12PM" />
+
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/idThurs"
+        android:title="Thursday"
+        >
+
+
+        <menu>
+
+            <item
+                android:id="@+id/idthurs9_10"
+                android:title="9AM-10AM" />
+            <item
+                android:id="@+id/idthurs10_11"
+                android:title="10AM-11AM" />
+            <item
+                android:id="@+id/idthurs11_12"
+                android:title="11AM-12PM" />
+
+
+        </menu>
+
+    </item>
+
+
+
+
+
+</menu>

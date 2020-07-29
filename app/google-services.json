@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946552444513",
+    "firebase_url": "https://vodabooking20.firebaseio.com",
+    "project_id": "vodabooking20",
+    "storage_bucket": "vodabooking20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946552444513:android:4023eba3d5d34ee57efc20",
+        "android_client_info": {
+          "package_name": "com.qazwex.vodabooking20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946552444513-bar5qslc5vpdmh1pc08043iv39mm9k35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qazwex.vodabooking20",
+            "certificate_hash": "b05879dd5acf9d4bdc57e36a352d06a3444b7581"
+          }
+        },
+        {
+          "client_id": "946552444513-ghbhg11gq32mi3dojrkama4nantt1vqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCpRt6wMp_0gcxVsG__UZtr8N11NBG-UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946552444513-ghbhg11gq32mi3dojrkama4nantt1vqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='vodabooking20'
+include ':app'
